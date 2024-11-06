@@ -21,7 +21,7 @@ This project was built using the following technologies:
 - SQLite;
 - Knex.js.
 
-<h2>💡 Utilização</h2>
+<h2>💡 Usage</h2>
 
 To install the application on your machine locally, clone the project, access the folder, install the dependencies and start the server.
 
